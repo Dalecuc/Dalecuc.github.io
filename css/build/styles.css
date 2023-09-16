@@ -1020,11 +1020,20 @@ video {
 }
 
 .text-center {
+  font-family: Arial, sans-serif;
+  color: rgba(152, 8, 8, 0.764);
+  font-size: 0.9rem;
   text-align: center;
 }
 
 .align-baseline {
   vertical-align: baseline;
+}
+
+.custom-lefooter {
+  font-family: Arial, sans-serif;
+  color: rgba(152, 8, 8, 0.627);
+  /* font-style: italic; */
 }
 
 .text-2xl {
