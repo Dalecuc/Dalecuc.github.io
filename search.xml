@@ -3,19 +3,18 @@
   <entry>
     <title>欢迎来到 Soyabean.club !</title>
     <url>/2023/09/15/hello-world/</url>
-    <content><![CDATA[<p>我们是流汗黄豆工作小组 ! </p>
-<h3 id="关于我们"><a href="#关于我们" class="headerlink" title="关于我们"></a>关于我们</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">我们是 ~ 我们是谁呢 ?</span><br></pre></td></tr></table></figure></div>
+    <content><![CDATA[<h3 id="关于我们"><a href="#关于我们" class="headerlink" title="关于我们"></a>关于我们</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">一群有一定理想的青年</span><br></pre></td></tr></table></figure></div>
 <!-- 
 More info: [Writing](https://hexo.io/docs/writing.html) -->
 
-<h3 id="我们的愿景"><a href="#我们的愿景" class="headerlink" title="我们的愿景"></a>我们的愿景</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">英特纳雄耐尔, 就一定要实现 !</span><br></pre></td></tr></table></figure></div>
+<h3 id="我们的愿景"><a href="#我们的愿景" class="headerlink" title="我们的愿景"></a>我们的愿景</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">英特纳雄耐尔, 就一定要实现 !</span><br></pre></td></tr></table></figure></div>
 
 
-<h3 id="我们的工作"><a href="#我们的工作" class="headerlink" title="我们的工作"></a>我们的工作</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">好像还没完成什么项目噢, 但我们正在做很有意义的工作 ~</span><br></pre></td></tr></table></figure></div>
+<h3 id="我们的工作"><a href="#我们的工作" class="headerlink" title="我们的工作"></a>我们的工作</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">好像还没完成什么项目噢, 但我们正在做很有意义的事情 </span><br></pre></td></tr></table></figure></div>
 
 
 
-<h3 id="欢迎加入"><a href="#欢迎加入" class="headerlink" title="欢迎加入"></a>欢迎加入</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">欢迎有共同理想的朋友加入我们 ~</span><br></pre></td></tr></table></figure></div>
+<h3 id="欢迎加入"><a href="#欢迎加入" class="headerlink" title="欢迎加入"></a>欢迎加入</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">欢迎有共同理想的朋友加入我们 </span><br><span class="line">email : soyabeanclub@proton.me</span><br></pre></td></tr></table></figure></div>
 ]]></content>
       <categories>
         <category>公告</category>
